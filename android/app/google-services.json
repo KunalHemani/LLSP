@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24782972553",
+    "project_id": "llsps-1c751",
+    "storage_bucket": "llsps-1c751.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24782972553:android:c2daa0a920ae4ae4e0c858",
+        "android_client_info": {
+          "package_name": "com.example.llsps_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6wt7y9v_wwo_k2L6G4Jr29c2o2FgZ7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
